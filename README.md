@@ -8,7 +8,7 @@
 
 --------
 
-![NKUST](3C3C41DE-8F31-444C-8795-3B8B7AFDF651.gif)
+![NKUST](logo.png)
 
 lorem
 
