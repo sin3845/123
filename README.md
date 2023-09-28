@@ -10,7 +10,6 @@
 
 ![NKUST](logo.png)
 
-lorem
 
 - [ ] to do list
 - [x] 1st thing
@@ -27,6 +26,14 @@ print(s)
 var s = "Javascript highlights ";
 alert(s)
 ```
+
+---
+Emphasism aka italicsm with asterisks or underscores
+Strong emphasis, aka boldm with **asterisks** or **underscores**
+Combined emphasis with **asterisks and underscores.**
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+---
 
 | Tables | Are | Cool |
 | :----- | :-: | ----:|
