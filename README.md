@@ -34,3 +34,8 @@ alert(s)
 | col 2 is | centered | $12 |
 | zebra stripes | are neat | $1 |
 
+| Markdown |   Less   |     Pretty |
+|:--------|:--------:| ----------:|
+| *Still*  | `rander` | **Nicely** |
+|    1     |    2     |      3 |
+|    4     |    5     |      6 |
