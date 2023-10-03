@@ -19,7 +19,7 @@ gantt
     使用者測試:a11,after a9 & a10,25d    
 ```
 ## PERT/CPM圖
-![](image(1).png)
+![]image (1).png
 
 
 ## 關鍵路徑
